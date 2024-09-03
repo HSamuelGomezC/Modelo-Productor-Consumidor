@@ -1,3 +1,3 @@
 # MODELO PRODUCTOR CONSUMIDOR
 
-[GomezHector.pdf](https://github.com/user-attachments/files/16858614/GomezHector.pdf)
+[GomezHector.docx](https://github.com/user-attachments/files/16858622/GomezHector.docx)
